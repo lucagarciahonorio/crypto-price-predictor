@@ -117,5 +117,5 @@ Este projeto está licenciado sob a MIT License.
 ---
 
 ## 📬 Contato
-Se tiver dúvidas ou sugestões, entre em contato via [seu-email@example.com](mailto:seu-email@example.com).
+Se tiver dúvidas ou sugestões, entre em contato via [lucatestecod@gmail.com](mailto:seu-email@example.com).
 
