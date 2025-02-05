@@ -25,7 +25,7 @@ Este projeto coleta dados de preço do Bitcoin e do Ethereum a cada minuto usand
 4️⃣ **Modelo Preditivo** → Treina um modelo de regressão linear para prever preços futuros.  
 5️⃣ **Dashboard (Streamlit)** → Exibe os preços reais e previstos.  
 
-![Arquitetura](arquitetura.png)
+![Arquitetura](data/arquitetura.png)
 
 ---
 
