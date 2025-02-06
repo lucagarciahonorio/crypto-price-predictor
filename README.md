@@ -102,11 +102,6 @@ A atualização ocorre a cada minuto automaticamente.
 
 ---
 
-## 📜 Licença
-Este projeto está licenciado sob a MIT License.
-
----
-
 ## 🤝 Contribuição
 1️⃣ Faça um fork do projeto.  
 2️⃣ Crie uma nova branch (`git checkout -b minha-feature`).  
